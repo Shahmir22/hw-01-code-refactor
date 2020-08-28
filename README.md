@@ -23,7 +23,6 @@ then in terimal run the following commands
 ## usage
 
 main page top right will have three clickable links
-![clickable links]()
 
 once clicked links will pan down on there corresponding tile
 
